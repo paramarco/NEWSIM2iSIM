@@ -1,3 +1,13 @@
+/.classpath
+/.project
+/myLog.txt
+/.settings
+/scenario_in_NEWSIM_export_format
+/scenario_in_iSIM_import_format
+/bkp
+/bin
+
+
 # Compiled class file
 *.class
 
